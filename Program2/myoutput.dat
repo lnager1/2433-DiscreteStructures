@@ -1,0 +1,14 @@
+Lindsey Nager
+Discrete Structures and Analysis
+Program 2 - Feynman Problem
+10/7/2021
+This program will solve how many squares are in an NxN grid iterativly, recursivly, and closed form
+
+ N   Iterative   Recursive     Closed
+ 6          91          91         91
+12         650         650        650
+ 4          30          30         30
+ 8         204         204        204
+ 9         285         285        285
+ 3          14          14         14
+43       27434       27434      27434
